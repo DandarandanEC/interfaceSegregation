@@ -1,0 +1,14 @@
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\obj\Debug\net7.0\interfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\obj\Debug\net7.0\interfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\obj\Debug\net7.0\interfaceSegregation.AssemblyInfo.cs
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\obj\Debug\net7.0\interfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\bin\Debug\net7.0\interfaceSegregation.exe
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\bin\Debug\net7.0\interfaceSegregation.deps.json
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\bin\Debug\net7.0\interfaceSegregation.runtimeconfig.json
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\bin\Debug\net7.0\interfaceSegregation.dll
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\bin\Debug\net7.0\interfaceSegregation.pdb
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\obj\Debug\net7.0\interfaceSegregation.dll
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\obj\Debug\net7.0\refint\interfaceSegregation.dll
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\obj\Debug\net7.0\interfaceSegregation.pdb
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\obj\Debug\net7.0\interfaceSegregation.genruntimeconfig.cache
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\interfaceSegregation\interfaceSegregation\obj\Debug\net7.0\ref\interfaceSegregation.dll
